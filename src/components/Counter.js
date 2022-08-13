@@ -11,7 +11,7 @@ export default function Counter() {
                   Increment
               </button>
               <button class="bg-red-400 text-white px-3 py-2 rounded shadow" id="decrement">
-                  Decrement 232
+                  Decrement
               </button>
           </div>
       </div>
